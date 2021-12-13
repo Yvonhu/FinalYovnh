@@ -3,7 +3,7 @@ title: Toasty Jekyll
 email: regmtait@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A super simple white label website built with Jekyll and using Dan Eden's Toast grid layout.
-baseurl: "/blog"
+baseurl: "/FinalYovnh"
 url: "https://example.com"
 phone: "07800 100100"
 theme-path: theme-assets # path to header assets etc
