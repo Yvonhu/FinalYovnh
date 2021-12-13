@@ -1,5 +1,5 @@
 ---
-layout: Labs
+layout: news
 title: Labs
 description: Some Labs
 keywords: Labs
