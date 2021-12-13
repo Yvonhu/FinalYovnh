@@ -2,8 +2,8 @@
 layout: case
 title: Another case study title
 image_path: ""
-thumb: case-thumb-cow.jpg
-main-pic: case-cow.jpg
+thumb: lab4.jpg
+main-pic: Display of order and delivery information.png
 summary: Quam temere in vitiis, legem sancimus haerentia. Plura mihi bona sunt, inclinet, amari petere vellent. Ambitioni dedisse scripsisse iudicaretur.
 nav-class: case-studies
 permalink: case-studies/two/
