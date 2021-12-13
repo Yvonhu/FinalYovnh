@@ -1,8 +1,8 @@
 ---
-layout: news
-title: News
-description: Some news
-keywords: news
-nav-class: news
-permalink: /news/
+layout: Labs
+title: Labs
+description: Some Labs
+keywords: Labs
+nav-class: Labs
+permalink: /Labs/
 ---
