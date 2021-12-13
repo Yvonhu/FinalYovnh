@@ -2,7 +2,7 @@
 layout: case
 title: Lab2 Case Discription.
 image_path: ""
-thumb: case-thumb.jpg
+thumb: lab2.jpg
 main-pic: ScreenShot_ImprovingDemo.jpg
 summary: Salutantibus vitae elit libero, a pharetra augue. Ullamco laboris nisi ut aliquid ex ea commodi consequat. Idque Caesaris facere voluntate liceret sese habere.
 nav-class: case-studies
