@@ -9,4 +9,4 @@ exclude_from_nav: false
 permalink: /contact/
 ---
 
-If you'd like to get in touch, please send an email to [{{site.email}}](mailto:{{site.email}}?subject=Enquiry from the website') or [{{site.email}}](mailto:{{site.email2}}?subject=Enquiry from the website').
+If you'd like to get in touch, please send an email to [{{site.email}}](mailto:{{site.email}}?subject=Enquiry from the website') or [{{site.email2}}](mailto:{{site.email2}}?subject=Enquiry from the website').
