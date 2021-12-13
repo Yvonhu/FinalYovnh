@@ -35,7 +35,7 @@ nav-class: home
 
 {% assign items = site.case | sort: 'date' %}
 {% for case in site.case limit:1 %}
-<h3 class="cf"><a title="{{ case.title }} Case study details" href="{{ case.url }}">{{ case.title }}</a></h3>
+<h3 class="cf"><a title="{{ case.title }} Case study details" href="{{ site/baseurl }}/{{ case.url }}">{{ case.title }}</a></h3>
 
 <div class="grid">
   <div class="grid__col grid__col--1-of-5 grid__col--m-1-of-3  grid__col--s-1-of-1">
