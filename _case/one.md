@@ -1,6 +1,6 @@
 ---
 layout: case
-title: Case study title
+title: Lab2 Case Discription.
 image_path: ""
 thumb: case-thumb.jpg
 main-pic: case.jpg
