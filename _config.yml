@@ -1,11 +1,11 @@
 # Site settings
-title: Toasty Jekyll
-email: regmtait@gmail.com
+title: CS7345 Final
+email: Yvonhu02@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A super simple white label website built with Jekyll and using Dan Eden's Toast grid layout.
 baseurl: "/FinalYovnh"
 url: "https://example.com"
-phone: "07800 100100"
+phone: "4699247626"
 theme-path: theme-assets # path to header assets etc
 map-api-key: AIzaSyB3U7uwIvCyq01orxppAIC1v73y-FBGygY
 sass:
