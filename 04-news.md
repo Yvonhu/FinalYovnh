@@ -2,7 +2,7 @@
 layout: Labs
 title: Labs
 description: Some Labs
-keywords: Labs
-nav-class: Labs
+keywords: news
+nav-class: News
 permalink: /Labs/
 ---
