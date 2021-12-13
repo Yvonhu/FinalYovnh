@@ -9,12 +9,6 @@ excerpt: Salutantibus vitae elit libero, a pharetra augue. Fabio vel iudice vinc
 
 ---
 
-<figure>
-
-{% markdown %}![temp](/theme-assets/news/news-temp.jpg "Alt text here"){% endmarkdown %}
-
-<p class="caption">My caption</p>
-</figure>
 
 Quisque ut dolor gravida, placerat libero vel, euismod. Integer legentibus erat a ante historiarum dapibus. At nos hinc posthac, sitientis piros Afros. Nihil hic munitissimus habendi senatus locus, nihil horum? Vivamus sagittis lacus vel augue laoreet rutrum faucibus.
 
