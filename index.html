@@ -15,7 +15,7 @@ nav-class: home
 <div class="wrapper">
 
 <div class="home-news-listing">
-<h2>News</h2>
+<h2>Labs</h2>
 {% for post in site.posts limit:3 %}
 <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 <p><span class="inline-post-date">{{ post.date | date: "%b %-d, %Y" }}—</span>{{ post.excerpt }}</p>
